@@ -1,3 +1,5 @@
+> **Chase Builds fork of [pixelfx](https://github.com/patch-gg/pixelfx).** We keep this copy for pixel art effects in browser games, playful client sites and our own demos. The original is by Patch and stays under its MIT license (see [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md)). Our gallery: [chasebuilds.github.io/pixelfx](https://chasebuilds.github.io/pixelfx/). For smooth WebGPU site backgrounds, see our [vgpu hero effects](https://chasebuilds.github.io/vgpu/chasebuilds/effects/).
+
 <p align="center">
   <img src="docs/readme/montage.gif" width="800" alt="A grid of pixel art effects playing at once: a campfire, a burning skull, a waterfall, a plasma ball, a portal, a tornado and more.">
 </p>
